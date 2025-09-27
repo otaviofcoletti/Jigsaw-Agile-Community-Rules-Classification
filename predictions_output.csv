@@ -1,0 +1,7 @@
+comment,prediction,violation_probability,clean_probability
+Thanks for the helpful explanation!,0,0.11032949893869354,0.8896705010613064
+"This is complete garbage, what a waste of time",1,0.9473316837241984,0.0526683162758016
+I disagree but respect your perspective,0,0.1506119846524353,0.8493880153475647
+Anyone who thinks this is an idiot,1,0.9437079501859924,0.056292049814007594
+"Great discussion, learned something new",0,0.05680517581751145,0.9431948241824886
+This is the worst post I've ever seen,1,0.8662338629431954,0.13376613705680462
